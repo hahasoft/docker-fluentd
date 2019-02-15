@@ -7,6 +7,6 @@
   - fluent-plugin-rewrite-tag-filter
   -  fluent-plugin-concat
 
-
+    [docker hub]: <https://hub.docker.com/r/hahaman/fluentd/>
     
   
